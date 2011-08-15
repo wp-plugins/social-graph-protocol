@@ -1,0 +1,86 @@
+#facebook-open-graph {
+	width: 958px;
+	background-color: #f9f9f9;
+	border-left: 1px solid #dedede;
+	border-right: 1px solid #dedede;
+	border-bottom: 1px solid #dedede;
+	border-top: 1px solid #dedede;
+}
+
+#facebook-open-graph > .heading {
+	border-bottom: 1px solid #dedede;
+	height: 51px;
+	background-image: -webkit-gradient(
+	    linear,
+	    left bottom,
+	    left top,
+	    color-stop(0.14, rgb(235,235,235)),
+	    color-stop(0.79, rgb(242,242,242))
+	);
+	background-image: -moz-linear-gradient(
+	    center bottom,
+	    rgb(235,235,235) 14%,
+	    rgb(242,242,242) 79%
+	);
+}
+
+#facebook-open-graph > .heading > h3 {
+	margin: 0;
+	padding: 0;
+	float: left;
+	position: relative;
+	top: 18px;
+	left: 10px;
+	text-transform: uppercase;
+	font-size: 1em;
+	color: #232323;
+}
+
+#facebook-open-graph > .heading > input {
+	float: right;
+	position: relative;
+	top: 15px;
+	right: 10px;
+}
+
+#facebook-open-graph > .row {
+	padding: 0;
+	padding: 0;
+	border-bottom: 1px solid #dedede;
+	border-top: 1px solid #fff;
+	height: 98px;
+	overflow: hidden;
+}
+
+#facebook-open-graph > .row > .column-one {
+	float: left;
+	width: 13%;
+	margin-right: 5%;
+	margin-left: 2%;
+	color: #333;
+	position: relative;
+	top: 40px;
+	font-weight: bold;
+}
+
+#facebook-open-graph > .row > .column-two {
+	float: left;
+	width: 51%;
+	margin-right: 5%;
+	position: relative;
+	top: 36px;
+}
+
+#facebook-open-graph > .row > .column-two >input {
+	width: 100%;
+}
+
+#facebook-open-graph > .row > .column-three {
+	float: left;
+	width: 20%;
+	margin-right: 2%;
+	color: #666;
+	font-size: 12px;
+	position: relative;
+	top: 20px;
+}
