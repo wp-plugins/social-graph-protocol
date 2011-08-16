@@ -1,0 +1,508 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: includes/meta-box.php:80
+#: includes/open-graph-menu.php:22
+#@ social-graph-protocol
+msgid "General Settings"
+msgstr "Configuración general"
+
+#: includes/meta-box.php:85
+#: includes/open-graph-menu.php:64
+#@ social-graph-protocol
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/meta-box.php:99
+#@ social-graph-protocol
+msgid "If Your Unsure Leave This Value Set To Article."
+msgstr "Si Tu No está seguro deje este valor se establece en el artículo."
+
+#: includes/meta-box.php:99
+#@ social-graph-protocol
+msgid "Learn More"
+msgstr "Más información"
+
+#: includes/meta-box.php:104
+#@ social-graph-protocol
+msgid "Title"
+msgstr "Título"
+
+#: includes/meta-box.php:107
+#@ social-graph-protocol
+msgid "Defaults To Post Title"
+msgstr "Por defecto para enviar el Título"
+
+#: includes/meta-box.php:112
+#@ social-graph-protocol
+msgid "Description"
+msgstr "Descripción"
+
+#: includes/meta-box.php:115
+#@ social-graph-protocol
+msgid "Defaults To Post Content"
+msgstr "Por defecto para enviar contenido"
+
+#: includes/meta-box.php:120
+#@ social-graph-protocol
+msgid "Image"
+msgstr "Imagen"
+
+#: includes/meta-box.php:123
+#@ social-graph-protocol
+msgid "Defaults To Featured Image"
+msgstr "Por defecto es la imagen destacados"
+
+#: includes/meta-box.php:128
+#@ social-graph-protocol
+msgid "Location Settings"
+msgstr "Configuración de la ubicación"
+
+#: includes/meta-box.php:133
+#@ social-graph-protocol
+msgid "Latitude"
+msgstr "Latitud"
+
+#: includes/meta-box.php:136
+#: includes/meta-box.php:144
+#: includes/meta-box.php:152
+#: includes/meta-box.php:160
+#: includes/meta-box.php:168
+#: includes/meta-box.php:176
+#: includes/meta-box.php:184
+#: includes/meta-box.php:197
+#: includes/meta-box.php:205
+#: includes/meta-box.php:213
+#: includes/meta-box.php:226
+#: includes/meta-box.php:234
+#: includes/meta-box.php:242
+#: includes/meta-box.php:250
+#: includes/meta-box.php:263
+#: includes/meta-box.php:271
+#: includes/meta-box.php:279
+#: includes/meta-box.php:287
+#: includes/meta-box.php:295
+#: includes/meta-box.php:308
+#: includes/meta-box.php:316
+#@ social-graph-protocol
+msgid "Example"
+msgstr "Ejemplo"
+
+#: includes/meta-box.php:141
+#@ social-graph-protocol
+msgid "Longitude"
+msgstr "Longitud"
+
+#: includes/meta-box.php:149
+#@ social-graph-protocol
+msgid "Street Address"
+msgstr "Dirección"
+
+#: includes/meta-box.php:152
+#@ social-graph-protocol
+msgid "California"
+msgstr "California"
+
+#: includes/meta-box.php:157
+#@ social-graph-protocol
+msgid "Locality"
+msgstr "Localidad"
+
+#: includes/meta-box.php:160
+#@ social-graph-protocol
+msgid "Palo Alto"
+msgstr "Palo Alto"
+
+#: includes/meta-box.php:165
+#@ social-graph-protocol
+msgid "Region"
+msgstr "Región"
+
+#: includes/meta-box.php:173
+#@ social-graph-protocol
+msgid "Postal Code"
+msgstr "Código Postal"
+
+#: includes/meta-box.php:181
+#@ social-graph-protocol
+msgid "Country Name"
+msgstr "Nombre País"
+
+#: includes/meta-box.php:189
+#@ social-graph-protocol
+msgid "Personal/Business Settings"
+msgstr "Configuración personal / negocios"
+
+#: includes/meta-box.php:194
+#@ social-graph-protocol
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/meta-box.php:202
+#@ social-graph-protocol
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+#: includes/meta-box.php:210
+#@ social-graph-protocol
+msgid "Fax Number"
+msgstr "Número de fax"
+
+#: includes/meta-box.php:218
+#@ social-graph-protocol
+msgid "Video Settings"
+msgstr "Ajustes de vídeo"
+
+#: includes/meta-box.php:223
+#@ social-graph-protocol
+msgid "Video"
+msgstr "Vídeo"
+
+#: includes/meta-box.php:231
+#@ social-graph-protocol
+msgid "Video Height"
+msgstr "Altura de vídeo"
+
+#: includes/meta-box.php:239
+#@ social-graph-protocol
+msgid "Video Width"
+msgstr "Ancho de vídeo"
+
+#: includes/meta-box.php:247
+#@ social-graph-protocol
+msgid "Video Type"
+msgstr "Tipo de vídeo"
+
+#: includes/meta-box.php:255
+#@ social-graph-protocol
+msgid "Audio Settings"
+msgstr "Configuración de audio"
+
+#: includes/meta-box.php:260
+#@ social-graph-protocol
+msgid "Audio"
+msgstr "Audio"
+
+#: includes/meta-box.php:268
+#@ social-graph-protocol
+msgid "Audio Title"
+msgstr "Título de audio"
+
+#: includes/meta-box.php:271
+#@ social-graph-protocol
+msgid "Amazing Soft Rock Ballad"
+msgstr "Balada increíble Soft Rock"
+
+#: includes/meta-box.php:276
+#@ social-graph-protocol
+msgid "Audio Artist"
+msgstr "Artista de audio"
+
+#: includes/meta-box.php:279
+#@ social-graph-protocol
+msgid "Amazing Band"
+msgstr "Banda increíble"
+
+#: includes/meta-box.php:284
+#@ social-graph-protocol
+msgid "Audio Album"
+msgstr "Album de audio"
+
+#: includes/meta-box.php:287
+#@ social-graph-protocol
+msgid "Amazing Album"
+msgstr "Album increíble"
+
+#: includes/meta-box.php:292
+#@ social-graph-protocol
+msgid "Audio Type"
+msgstr "Tipo de audio"
+
+#: includes/meta-box.php:300
+#@ social-graph-protocol
+msgid "Product Settings"
+msgstr "Configuración del producto"
+
+#: includes/open-graph-menu.php:11
+#@ social-graph-protocol
+msgid "Social Graph Protocol"
+msgstr "Protocolo Social Graph"
+
+#: includes/open-graph-menu.php:28
+#@ social-graph-protocol
+msgid "Site Description"
+msgstr "Descripción del Sitio"
+
+#: includes/open-graph-menu.php:34
+#@ social-graph-protocol
+msgid "Enter in a short one to two sentence description of your website (Defaults to your tagline)"
+msgstr "Entrar en una descripción breve frase una y cincuenta y nueve de su sitio web (valor por defecto es su lema)"
+
+#: includes/open-graph-menu.php:40
+#@ social-graph-protocol
+msgid "Site Image"
+msgstr "Imagen del Sitio"
+
+#: includes/open-graph-menu.php:46
+#@ social-graph-protocol
+msgid "Image must be at least"
+msgstr "La imagen debe ser de al menos"
+
+#: includes/open-graph-menu.php:46
+#: index.php:54
+#@ social-graph-protocol
+msgid "by"
+msgstr "por"
+
+#: includes/open-graph-menu.php:46
+#: index.php:54
+#@ social-graph-protocol
+msgid "and have a maximum aspect ratio of"
+msgstr "y tienen una relación de aspecto de máxima"
+
+#: includes/open-graph-menu.php:52
+#@ social-graph-protocol
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/open-graph-menu.php:58
+#@ social-graph-protocol
+msgid "Your Facebook"
+msgstr "Su Facebook"
+
+#: includes/open-graph-menu.php:58
+#@ social-graph-protocol
+msgid "or a comma seperated list of the ids of people who will have admin rights."
+msgstr "o una lista separada por comas de las identificaciones de personas que tienen derechos de administrador."
+
+#: includes/open-graph-menu.php:68
+#@ social-graph-protocol
+msgid "Blog"
+msgstr "Blog"
+
+#: includes/open-graph-menu.php:69
+#@ social-graph-protocol
+msgid "Website"
+msgstr "Sitio web"
+
+#: includes/open-graph-menu.php:73
+#@ social-graph-protocol
+msgid "If all you do is blog simply select blog, if you think you have a more traditional website, select website."
+msgstr "Si todo lo que hacen es el blog sólo tiene que seleccionar blog, si usted piensa que tiene un sitio web más tradicionales, seleccione sitio web."
+
+#: includes/open-graph-menu.php:79
+#@ social-graph-protocol
+msgid "Disable Namespaces"
+msgstr "Desactivar espacios de nombres"
+
+#: includes/open-graph-menu.php:83
+#@ social-graph-protocol
+msgid "Check this option if you have hardcoded the"
+msgstr "Marque esta opción si usted tiene codificada la"
+
+#: includes/open-graph-menu.php:83
+#: index.php:55
+#@ social-graph-protocol
+msgid "and"
+msgstr "y"
+
+#: includes/open-graph-menu.php:83
+#@ social-graph-protocol
+msgid "namespaces into your theme or if you notice they are double entries on your head tag."
+msgstr "espacios de nombres en el tema o si nota que están las entradas dobles en su etiqueta principal."
+
+#: includes/open-graph-menu.php:89
+#@ social-graph-protocol
+msgid "TIP"
+msgstr "CONSEJO"
+
+#: includes/open-graph-menu.php:89
+#@ social-graph-protocol
+msgid "If you need help with any of these settings click the help button in the upper right corner or visit the"
+msgstr "Si necesita ayuda con cualquiera de estos parámetros haga clic en el botón de ayuda en la esquina superior derecha o visite la"
+
+#: includes/open-graph-menu.php:90
+#@ social-graph-protocol
+msgid "Social Graph Plugin"
+msgstr "Plugin Social Graph"
+
+#: includes/open-graph-menu.php:90
+#@ social-graph-protocol
+msgid "site for additional information."
+msgstr "sitio para obtener información adicional."
+
+#: index.php:38
+#@ social-graph-protocol
+msgid "The Social Graph Protocol plugin contains four settings that should be set in order to utilize the full potential of the plugin. We ask you to set "
+msgstr "El plugin Gráfico Protocolo Social contiene cuatro parámetros que deben establecerse con el fin de utilizar todo el potencial del plugin. Le pedimos que usted fije"
+
+#: index.php:40
+#@ social-graph-protocol
+msgid "NOT"
+msgstr "NO"
+
+#: index.php:41
+#@ social-graph-protocol
+msgid "carry over to individual Wordpress posts or pages, they are strictly for the homepage of your website, you'll be able to set the values of each "
+msgstr "llevar a individuales mensajes Wordpress o páginas, que son estrictamente de la página principal de su sitio web, usted será capaz de establecer los valores de cada"
+
+#: index.php:42
+#@ social-graph-protocol
+msgid "page or post on the individual edit screens."
+msgstr "página o mensaje en el individuo pantallas de edición."
+
+#: index.php:47
+#@ social-graph-protocol
+msgid "if you leave this value blank, it will attempt to default to your websites Tagline specified under the Wordpress Settings menu. If the "
+msgstr "Si deja este valor en blanco, se tratará de forma predeterminada a su Lema sitios especificados en el menú de configuración de Wordpress. Si el"
+
+#: index.php:48
+#@ social-graph-protocol
+msgid "Tagline value is not set and you do not provide a description, then this meta tag will not be generated in your html."
+msgstr "Lema valor no está establecido y no proporciona una descripción, entonces esta etiqueta meta no se generarán en el código HTML."
+
+#: index.php:58
+#@ social-graph-protocol
+msgid "The third option asks you to enter your Facebook user id or a comma-separated list of either user IDs and/or Facebook platform application IDs "
+msgstr "La tercera opción le pedirá que introduzca su nombre de usuario de Facebook o una lista separada por comas de los ID de usuario o bien y / o plataforma de aplicaciones de Facebook ID"
+
+#: index.php:59
+#@ social-graph-protocol
+msgid "that will be used to administer your page. It is valid to include both id types. Basically only list the IDs of people that you want to give admin "
+msgstr "que se utilizará para administrar su página. Es válido para incluir ambos tipos de identificación. Básicamente sólo una lista de los números de identificación de las personas que usted quiere dar admin"
+
+#: index.php:62
+#@ social-graph-protocol
+msgid "Facebook Insights"
+msgstr "Facebook Insights"
+
+#: index.php:67
+#@ social-graph-protocol
+msgid "Finally the very last option is a simple drop down menu with two options, one option is called Blog and the second option is called website. "
+msgstr "Finalmente la última opción es una simple gota de menú con dos opciones, una opción que se llama blog y la segunda opción se llama página web."
+
+#: index.php:68
+#@ social-graph-protocol
+msgid "If you think your website is more of a blog then choose blog, but if you think your website is more of a traditional website then select "
+msgstr "Si usted piensa que su sitio web es más de un blog a continuación, elija blog, pero si usted piensa que su sitio web es más de un sitio web tradicional a continuación, seleccione"
+
+#: index.php:69
+#@ social-graph-protocol
+msgid "website. The difference is minor and a large majority of Wordpress users will select blog. The difference is that a Website is considered "
+msgstr "sitio web. La diferencia es menor de edad y una gran mayoría de los usuarios de Wordpress seleccionará blog. La diferencia es que un sitio web se considera"
+
+#: index.php:70
+#@ social-graph-protocol
+msgid "to be more static content as where a blog your continually writing new content making it more dynamic. Overall its a very stupid feature in "
+msgstr "a un contenido más estático como en un blog tu continuamente escribiendo nuevos contenidos por lo que es más dinámico. En general es una característica muy estúpido"
+
+#: index.php:71
+#@ social-graph-protocol
+msgid "the Facebook Open Graph and I'm sure they'll end up changing it or clarifying the difference a bit more in the future."
+msgstr "el Gráfico de Facebook Open y estoy seguro de que va a terminar cambiando o que aclarar la diferencia un poco más en el futuro."
+
+#: index.php:93
+#@ social-graph-protocol
+msgid "Social Graph"
+msgstr "Gráfico sociales"
+
+#: index.php:97
+#@ social-graph-protocol
+msgid "Settings"
+msgstr "Configuración"
+
+#: index.php:113
+#@ social-graph-protocol
+msgid "Your Settings Have Been Successfully Saved."
+msgstr "Su configuración se ha guardado correctamente."
+
+#: index.php:218
+#: index.php:226
+#: index.php:239
+#@ social-graph-protocol
+msgid "Social Graph Protocol Options"
+msgstr "Opciones de gráfico social, el Protocolo"
+
+#: index.php:369
+#@ social-graph-protocol
+msgid "Start Of Facebook Open Graph Meta Data"
+msgstr "Inicio de Facebook Meta Data Open Graph"
+
+#: index.php:398
+#@ social-graph-protocol
+msgid "End Of Facebook Open Graph Meta Data"
+msgstr "End Of Facebook Meta Data Open Graph"
+
+#: index.php:39
+#@ social-graph-protocol
+msgid "these values because they are the values that are going to be used for your homepage, these values will"
+msgstr "estos valores porque son los valores que se van a utilizar para su página web, estos valores"
+
+#: index.php:45
+#@ social-graph-protocol
+msgid "The first option to set is pretty straight forward, its a one to two sentence description of your overall website and its limited to"
+msgstr "La primera opción para configurar es bastante sencillo, es un uno-dos descripción sentencia de su sitio web en general y se limita a su"
+
+#: index.php:46
+#@ social-graph-protocol
+msgid "characters. You can enter anything you want, however we highly suggest you write something meaningful about your website. Additionally "
+msgstr "personajes. Puede introducir lo que quieras, sin embargo, sugiero que escribir algo significativo sobre su sitio web. Además"
+
+#: index.php:51
+#@ social-graph-protocol
+msgid "The second option asks you to provide a URL to a screenshot of your website, as an example if I wanted to use the"
+msgstr "La segunda opción le pide que proporcione una dirección URL de una captura de pantalla de su sitio web, como un ejemplo, si quiero usar el"
+
+#: index.php:52
+#@ social-graph-protocol
+msgid "logo as the screenshot I would insert the text"
+msgstr "logotipo como la pantalla y me gustaría insertar el texto"
+
+#: index.php:53
+#@ social-graph-protocol
+msgid "One thing to note is that the image must be at least"
+msgstr "Una cosa a notar es que la imagen debe ser al menos"
+
+#: index.php:54
+#@ social-graph-protocol
+msgid "Facebook supports"
+msgstr "Facebook apoya"
+
+#: index.php:55
+#@ social-graph-protocol
+msgid "formats only."
+msgstr "Sólo formatos."
+
+#: index.php:60
+#@ social-graph-protocol
+msgid "rights to, if this is only you then only enter in your Facebook UID and no one elses. Now if you have absolutely no clue how to obtain your Facebook UID, you can visit the"
+msgstr "derechos, si ello es sólo que entonces sólo entrar en su UID Facebook y nadie vigilara. Ahora bien, si usted no tiene absolutamente ni idea de cómo obtener el UID de Facebook, se puede visitar la"
+
+#: index.php:63
+#@ social-graph-protocol
+msgid "page, click the green Insights for your website button near the upper right, select your name from the \"Link With\" drop down and just below that you'll notice a meta tag simply copy that meta tag it will look something like"
+msgstr "página, haga clic en el Análisis verde para el botón de página web, cerca de la parte superior derecha, seleccione el nombre de la &quot;Enlazar con&quot; caer abajo y ligeramente inferior a la que dará cuenta de una etiqueta meta simplemente copiar esa etiqueta meta que se verá algo así como"
+
+#: index.php:64
+#@ social-graph-protocol
+msgid "where the highlighted part is going to be your Facebook UID that you include on the settings page."
+msgstr "en la parte iluminada va a ser el UID de Facebook que se incluyen en la página de configuración."
+
