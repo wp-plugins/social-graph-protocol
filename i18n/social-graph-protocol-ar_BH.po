@@ -1,0 +1,508 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: includes/meta-box.php:80
+#: includes/open-graph-menu.php:22
+#@ social-graph-protocol
+msgid "General Settings"
+msgstr "إعدادات عامة"
+
+#: includes/meta-box.php:85
+#: includes/open-graph-menu.php:64
+#@ social-graph-protocol
+msgid "Type"
+msgstr "نوع"
+
+#: includes/meta-box.php:99
+#@ social-graph-protocol
+msgid "If Your Unsure Leave This Value Set To Article."
+msgstr "إذا لم تكن متأكدا ديك اترك هذه القيمة لتعيين المادة."
+
+#: includes/meta-box.php:99
+#@ social-graph-protocol
+msgid "Learn More"
+msgstr "تعلم المزيد"
+
+#: includes/meta-box.php:104
+#@ social-graph-protocol
+msgid "Title"
+msgstr "لقب"
+
+#: includes/meta-box.php:107
+#@ social-graph-protocol
+msgid "Defaults To Post Title"
+msgstr "افتراضات إلى آخر العنوان"
+
+#: includes/meta-box.php:112
+#@ social-graph-protocol
+msgid "Description"
+msgstr "وصف"
+
+#: includes/meta-box.php:115
+#@ social-graph-protocol
+msgid "Defaults To Post Content"
+msgstr "افتراضات لنشر محتوى"
+
+#: includes/meta-box.php:120
+#@ social-graph-protocol
+msgid "Image"
+msgstr "صورة"
+
+#: includes/meta-box.php:123
+#@ social-graph-protocol
+msgid "Defaults To Featured Image"
+msgstr "صورة افتراضية مميزة"
+
+#: includes/meta-box.php:128
+#@ social-graph-protocol
+msgid "Location Settings"
+msgstr "إعدادات الموقع"
+
+#: includes/meta-box.php:133
+#@ social-graph-protocol
+msgid "Latitude"
+msgstr "خط العرض"
+
+#: includes/meta-box.php:136
+#: includes/meta-box.php:144
+#: includes/meta-box.php:152
+#: includes/meta-box.php:160
+#: includes/meta-box.php:168
+#: includes/meta-box.php:176
+#: includes/meta-box.php:184
+#: includes/meta-box.php:197
+#: includes/meta-box.php:205
+#: includes/meta-box.php:213
+#: includes/meta-box.php:226
+#: includes/meta-box.php:234
+#: includes/meta-box.php:242
+#: includes/meta-box.php:250
+#: includes/meta-box.php:263
+#: includes/meta-box.php:271
+#: includes/meta-box.php:279
+#: includes/meta-box.php:287
+#: includes/meta-box.php:295
+#: includes/meta-box.php:308
+#: includes/meta-box.php:316
+#@ social-graph-protocol
+msgid "Example"
+msgstr "مثال"
+
+#: includes/meta-box.php:141
+#@ social-graph-protocol
+msgid "Longitude"
+msgstr "خط الطول"
+
+#: includes/meta-box.php:149
+#@ social-graph-protocol
+msgid "Street Address"
+msgstr "عنوان الشارع"
+
+#: includes/meta-box.php:152
+#@ social-graph-protocol
+msgid "California"
+msgstr "كاليفورنيا"
+
+#: includes/meta-box.php:157
+#@ social-graph-protocol
+msgid "Locality"
+msgstr "مكان"
+
+#: includes/meta-box.php:160
+#@ social-graph-protocol
+msgid "Palo Alto"
+msgstr "بالو ألتو"
+
+#: includes/meta-box.php:165
+#@ social-graph-protocol
+msgid "Region"
+msgstr "منطقة"
+
+#: includes/meta-box.php:173
+#@ social-graph-protocol
+msgid "Postal Code"
+msgstr "الرمز البريدي"
+
+#: includes/meta-box.php:181
+#@ social-graph-protocol
+msgid "Country Name"
+msgstr "اسم البلد"
+
+#: includes/meta-box.php:189
+#@ social-graph-protocol
+msgid "Personal/Business Settings"
+msgstr "الشخصية / الأعمال إعدادات"
+
+#: includes/meta-box.php:194
+#@ social-graph-protocol
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: includes/meta-box.php:202
+#@ social-graph-protocol
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+#: includes/meta-box.php:210
+#@ social-graph-protocol
+msgid "Fax Number"
+msgstr "رقم الفاكس"
+
+#: includes/meta-box.php:218
+#@ social-graph-protocol
+msgid "Video Settings"
+msgstr "إعدادات الفيديو"
+
+#: includes/meta-box.php:223
+#@ social-graph-protocol
+msgid "Video"
+msgstr "فيديو"
+
+#: includes/meta-box.php:231
+#@ social-graph-protocol
+msgid "Video Height"
+msgstr "الفيديو الارتفاع"
+
+#: includes/meta-box.php:239
+#@ social-graph-protocol
+msgid "Video Width"
+msgstr "عرض الفيديو"
+
+#: includes/meta-box.php:247
+#@ social-graph-protocol
+msgid "Video Type"
+msgstr "نوع الفيديو"
+
+#: includes/meta-box.php:255
+#@ social-graph-protocol
+msgid "Audio Settings"
+msgstr "إعدادات الصوت"
+
+#: includes/meta-box.php:260
+#@ social-graph-protocol
+msgid "Audio"
+msgstr "الصوت"
+
+#: includes/meta-box.php:268
+#@ social-graph-protocol
+msgid "Audio Title"
+msgstr "الصوت العنوان"
+
+#: includes/meta-box.php:271
+#@ social-graph-protocol
+msgid "Amazing Soft Rock Ballad"
+msgstr "أغنية روك مذهلة لينة"
+
+#: includes/meta-box.php:276
+#@ social-graph-protocol
+msgid "Audio Artist"
+msgstr "صوت الفنان"
+
+#: includes/meta-box.php:279
+#@ social-graph-protocol
+msgid "Amazing Band"
+msgstr "مذهلة باند"
+
+#: includes/meta-box.php:284
+#@ social-graph-protocol
+msgid "Audio Album"
+msgstr "صوت البوم"
+
+#: includes/meta-box.php:287
+#@ social-graph-protocol
+msgid "Amazing Album"
+msgstr "البوم مذهلة"
+
+#: includes/meta-box.php:292
+#@ social-graph-protocol
+msgid "Audio Type"
+msgstr "نوع الصوت"
+
+#: includes/meta-box.php:300
+#@ social-graph-protocol
+msgid "Product Settings"
+msgstr "إعدادات المنتج"
+
+#: includes/open-graph-menu.php:11
+#@ social-graph-protocol
+msgid "Social Graph Protocol"
+msgstr "رسم بياني بروتوكول الاجتماعية"
+
+#: includes/open-graph-menu.php:28
+#@ social-graph-protocol
+msgid "Site Description"
+msgstr "وصف الموقع"
+
+#: includes/open-graph-menu.php:34
+#@ social-graph-protocol
+msgid "Enter in a short one to two sentence description of your website (Defaults to your tagline)"
+msgstr "أدخل وصفا موجزا في جملة واحدة لاثنين من موقعك (الافتراضيات إلى الشعار الخاص بك)"
+
+#: includes/open-graph-menu.php:40
+#@ social-graph-protocol
+msgid "Site Image"
+msgstr "موقع صورة"
+
+#: includes/open-graph-menu.php:46
+#@ social-graph-protocol
+msgid "Image must be at least"
+msgstr "يجب أن تكون الصورة على الأقل"
+
+#: includes/open-graph-menu.php:46
+#: index.php:54
+#@ social-graph-protocol
+msgid "by"
+msgstr "بواسطة"
+
+#: includes/open-graph-menu.php:46
+#: index.php:54
+#@ social-graph-protocol
+msgid "and have a maximum aspect ratio of"
+msgstr "ويكون الحد الأقصى لنسبة الارتفاع"
+
+#: includes/open-graph-menu.php:52
+#@ social-graph-protocol
+msgid "Facebook"
+msgstr "فيسبوك"
+
+#: includes/open-graph-menu.php:58
+#@ social-graph-protocol
+msgid "Your Facebook"
+msgstr "الفيس بوك الخاص بك"
+
+#: includes/open-graph-menu.php:58
+#@ social-graph-protocol
+msgid "or a comma seperated list of the ids of people who will have admin rights."
+msgstr "أو فاصلة فصل قائمة من هويات الأشخاص الذين لديهم حقوق المسؤول."
+
+#: includes/open-graph-menu.php:68
+#@ social-graph-protocol
+msgid "Blog"
+msgstr "بلوق"
+
+#: includes/open-graph-menu.php:69
+#@ social-graph-protocol
+msgid "Website"
+msgstr "الموقع"
+
+#: includes/open-graph-menu.php:73
+#@ social-graph-protocol
+msgid "If all you do is blog simply select blog, if you think you have a more traditional website, select website."
+msgstr "اذا كل ما عليك القيام به هو ببساطة حدد بلوق بلوق ، وإذا كنت تعتقد أن لديك موقع على شبكة الانترنت أكثر تقليدية ، حدد الموقع."
+
+#: includes/open-graph-menu.php:79
+#@ social-graph-protocol
+msgid "Disable Namespaces"
+msgstr "تعطيل مساحات الأسماء"
+
+#: includes/open-graph-menu.php:83
+#@ social-graph-protocol
+msgid "Check this option if you have hardcoded the"
+msgstr "تحقق هذا الخيار إذا كان لديك ضمنية على"
+
+#: includes/open-graph-menu.php:83
+#: index.php:55
+#@ social-graph-protocol
+msgid "and"
+msgstr "و"
+
+#: includes/open-graph-menu.php:83
+#@ social-graph-protocol
+msgid "namespaces into your theme or if you notice they are double entries on your head tag."
+msgstr "مساحات الى الموضوع الخاص بك أو إذا لاحظت أنها إدخالات المزدوج على العلامة رأسك."
+
+#: includes/open-graph-menu.php:89
+#@ social-graph-protocol
+msgid "TIP"
+msgstr "TIP"
+
+#: includes/open-graph-menu.php:89
+#@ social-graph-protocol
+msgid "If you need help with any of these settings click the help button in the upper right corner or visit the"
+msgstr "إذا كنت بحاجة إلى مساعدة مع أي من هذه الإعدادات انقر على زر مساعدة في الزاوية اليمنى العليا أو زيارة"
+
+#: includes/open-graph-menu.php:90
+#@ social-graph-protocol
+msgid "Social Graph Plugin"
+msgstr "رسم بياني الاجتماعية المساعد"
+
+#: includes/open-graph-menu.php:90
+#@ social-graph-protocol
+msgid "site for additional information."
+msgstr "موقع للحصول على معلومات إضافية."
+
+#: index.php:38
+#@ social-graph-protocol
+msgid "The Social Graph Protocol plugin contains four settings that should be set in order to utilize the full potential of the plugin. We ask you to set "
+msgstr "بروتوكول رسم بياني يحتوي على أربعة الاجتماعية المساعد الإعدادات التي يجب تعيين من أجل الاستفادة من الإمكانات الكاملة للالبرنامج المساعد. فإننا نطلب منكم لتعيين"
+
+#: index.php:40
+#@ social-graph-protocol
+msgid "NOT"
+msgstr "NOT"
+
+#: index.php:41
+#@ social-graph-protocol
+msgid "carry over to individual Wordpress posts or pages, they are strictly for the homepage of your website, you'll be able to set the values of each "
+msgstr "ترحيل إلى وظائف وورد أو صفحات فردية ، فهي صارمة عن الصفحة الرئيسية لموقع الويب الخاص بك ، عليك أن تكون قادرا على تعيين كل من القيم"
+
+#: index.php:42
+#@ social-graph-protocol
+msgid "page or post on the individual edit screens."
+msgstr "صفحة أو آخر على شاشات تحرير الفرد."
+
+#: index.php:47
+#@ social-graph-protocol
+msgid "if you leave this value blank, it will attempt to default to your websites Tagline specified under the Wordpress Settings menu. If the "
+msgstr "إذا تركت هذه القيمة فارغة ، سيحاول الافتراضي إلى مواقعك سطر الوصف المحدد ضمن القائمة إعدادات وورد. إذا كان"
+
+#: index.php:48
+#@ social-graph-protocol
+msgid "Tagline value is not set and you do not provide a description, then this meta tag will not be generated in your html."
+msgstr "لم يتم تعيين قيمة الشعار وأنت لا تقدم وصفا ، فلن تكون هذه العلامة الوصفية ولدت في HTML الخاص بك."
+
+#: index.php:58
+#@ social-graph-protocol
+msgid "The third option asks you to enter your Facebook user id or a comma-separated list of either user IDs and/or Facebook platform application IDs "
+msgstr "الخيار الثالث يطلب منك إدخال هوية المستخدم فيسبوك أو قائمة مفصولة بفواصل من هوية المستخدم إما و / أو أمام منصة معرفات التطبيق"
+
+#: index.php:59
+#@ social-graph-protocol
+msgid "that will be used to administer your page. It is valid to include both id types. Basically only list the IDs of people that you want to give admin "
+msgstr "وسوف تستخدم لادارة الصفحة الخاصة بك. يصح لتشمل كلا النوعين الهوية. في الأساس قائمة فقط معرفات من الناس التي تريد أن تعطي المشرف"
+
+#: index.php:62
+#@ social-graph-protocol
+msgid "Facebook Insights"
+msgstr "فيسبوك البصائر"
+
+#: index.php:67
+#@ social-graph-protocol
+msgid "Finally the very last option is a simple drop down menu with two options, one option is called Blog and the second option is called website. "
+msgstr "في النهاية الخيار الأخير جدا هو انخفاض بسيط أسفل القائمة مع اثنين من الخيارات ، خيار واحد يسمى المدونة ويسمى الخيار الثاني الموقع."
+
+#: index.php:68
+#@ social-graph-protocol
+msgid "If you think your website is more of a blog then choose blog, but if you think your website is more of a traditional website then select "
+msgstr "إذا كنت تعتقد أن موقع الويب الخاص بك هو أكثر من بلوق ثم اختر بلوق ، ولكن إذا كنت تعتقد أن موقع الويب الخاص بك هو أكثر من موقع على شبكة الانترنت التقليدية ثم حدد"
+
+#: index.php:69
+#@ social-graph-protocol
+msgid "website. The difference is minor and a large majority of Wordpress users will select blog. The difference is that a Website is considered "
+msgstr "الموقع. الفرق هو قاصر وأغلبية كبيرة من المستخدمين وورد سوف تختار بلوق. الفرق هو أن يعتبر الموقع"
+
+#: index.php:70
+#@ social-graph-protocol
+msgid "to be more static content as where a blog your continually writing new content making it more dynamic. Overall its a very stupid feature in "
+msgstr "أن تكون ثابتة والمزيد من المحتوى حيث بلوق الخاص بك الكتابة باستمرار محتوى جديد جعله أكثر ديناميكية. الشاملة ميزة غبية جدا في"
+
+#: index.php:71
+#@ social-graph-protocol
+msgid "the Facebook Open Graph and I'm sure they'll end up changing it or clarifying the difference a bit more in the future."
+msgstr "رسم بياني لفتح الفيس بوك وأنا متأكد من أنها سوف ينتهي تغييره أو توضيح الفرق أكثر قليلا في المستقبل."
+
+#: index.php:93
+#@ social-graph-protocol
+msgid "Social Graph"
+msgstr "رسم بياني الاجتماعية"
+
+#: index.php:97
+#@ social-graph-protocol
+msgid "Settings"
+msgstr "إعدادات"
+
+#: index.php:113
+#@ social-graph-protocol
+msgid "Your Settings Have Been Successfully Saved."
+msgstr "هل تم الإعدادات التي تم حفظها بنجاح."
+
+#: index.php:218
+#: index.php:226
+#: index.php:239
+#@ social-graph-protocol
+msgid "Social Graph Protocol Options"
+msgstr "خيارات الرسم البياني الاجتماعية البروتوكول"
+
+#: index.php:369
+#@ social-graph-protocol
+msgid "Start Of Facebook Open Graph Meta Data"
+msgstr "بدء فتح فيسبوك بيانات ميتا رسم بياني"
+
+#: index.php:398
+#@ social-graph-protocol
+msgid "End Of Facebook Open Graph Meta Data"
+msgstr "نهاية مفتوحة بيانات ميتا رسم بياني فيسبوك"
+
+#: index.php:39
+#@ social-graph-protocol
+msgid "these values because they are the values that are going to be used for your homepage, these values will"
+msgstr "هذه القيم لأنها هي القيم التي هي على وشك أن يستخدم لصفحتك الرئيسية ، فإن هذه القيم"
+
+#: index.php:45
+#@ social-graph-protocol
+msgid "The first option to set is pretty straight forward, its a one to two sentence description of your overall website and its limited to"
+msgstr "الخيار الأول لمجموعة جميلة على التوالي إلى الأمام ، وصفا لجملة واحدة لاثنين من موقعك الشاملة والمحدودة على"
+
+#: index.php:46
+#@ social-graph-protocol
+msgid "characters. You can enter anything you want, however we highly suggest you write something meaningful about your website. Additionally "
+msgstr "حرفا. يمكنك إدخال أي شيء تريده ، ولكن نقترح بشدة أن أكتب شيئا عن معنى موقعك. بالإضافة إلى ذلك"
+
+#: index.php:51
+#@ social-graph-protocol
+msgid "The second option asks you to provide a URL to a screenshot of your website, as an example if I wanted to use the"
+msgstr "الخيار الثاني يطلب منك تقديم عنوان URL لقطة من موقع الويب الخاص بك ، على سبيل المثال إذا أردت أن استخدام"
+
+#: index.php:52
+#@ social-graph-protocol
+msgid "logo as the screenshot I would insert the text"
+msgstr "شعار مثل قطة أود أن إدراج النص"
+
+#: index.php:53
+#@ social-graph-protocol
+msgid "One thing to note is that the image must be at least"
+msgstr "شيء واحد هو أن نلاحظ أن الصورة يجب ان تكون على الاقل"
+
+#: index.php:54
+#@ social-graph-protocol
+msgid "Facebook supports"
+msgstr "يدعم فيسبوك"
+
+#: index.php:55
+#@ social-graph-protocol
+msgid "formats only."
+msgstr "تنسيقات فقط."
+
+#: index.php:60
+#@ social-graph-protocol
+msgid "rights to, if this is only you then only enter in your Facebook UID and no one elses. Now if you have absolutely no clue how to obtain your Facebook UID, you can visit the"
+msgstr "الحقوق ، إلا إذا كان هذا هو لك ، ثم تدخل فقط في UID فيسبوك الخاص وليس إلسس واحد. الآن إذا كان لديك اي فكرة عن كيفية الحصول على فيسبوك UID الخاص ، يمكنك زيارة"
+
+#: index.php:63
+#@ social-graph-protocol
+msgid "page, click the green Insights for your website button near the upper right, select your name from the \"Link With\" drop down and just below that you'll notice a meta tag simply copy that meta tag it will look something like"
+msgstr "الصفحة ، انقر على الزر الاخضر لالبصائر موقع الويب الخاص بك بالقرب من أعلى اليمين ، حدد اسمك من &quot;وصلة مع&quot; المنسدلة أدناه ومجرد أن ستلاحظ علامة التعريف نسخة ببساطة أن علامة التعريف سيبدو شيئا من هذا القبيل"
+
+#: index.php:64
+#@ social-graph-protocol
+msgid "where the highlighted part is going to be your Facebook UID that you include on the settings page."
+msgstr "حيث سلط الضوء على جزء يسير إلى أن يكون لديك فيسبوك UID التي تشمل على صفحة الإعدادات."
+
