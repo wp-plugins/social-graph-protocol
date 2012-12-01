@@ -1,0 +1,405 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Graph Protocol\n"
+"POT-Creation-Date: 2012-11-14 15:49-0800\n"
+"PO-Revision-Date: 2012-11-14 15:58-0800\n"
+"Last-Translator: Adam Losier <adam@codehooks.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\ProductBot\\wp-content\\plugins"
+"\\social-graph-protocol\n"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/index.php:55
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/open-graph-menu.php:17
+msgid "Site Description"
+msgstr "Descripción del sitio"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/index.php:56
+msgid ""
+"<p>Add a short one or two sentence description of your website in general. "
+"Keep this short and to the point, I would suggest keeping it under 150 "
+"characters, basically no longer than a Tweet. This is an optional setting, "
+"it's not required because if it's missing the plugin will automatically fill "
+"it in with your websites Tagline located in the Settings of your WordPress "
+"administration panel.</p>"
+msgstr ""
+"<p> Añadir un corto de uno o dos Descripción frase de su sitio web en "
+"general. Mantenga este breve y al punto, me permito sugerir mantenerla menos "
+"de 150 caracteres, básicamente, no hay más que un Tweet. Esta es una "
+"configuración opcional, no es necesario porque si no se encuentra el plugin "
+"automáticamente lo llene con su Lema sitios web ubicada en la configuración "
+"de tu panel de administración de WordPress. </ P>"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/index.php:61
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/open-graph-menu.php:25
+msgid "Site Image"
+msgstr "Imagen del Sitio"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/index.php:62
+msgid ""
+"<p>This is an optional feature that takes the URL to an image of your site, "
+"it's a good thing to have because it provides people looking at it on "
+"Facebook a visual representation of your website, you can create a "
+"screenshot of your site using Photoshop or some other editing program and "
+"then upload it to WordPress using the Media tab. However the image MUST be "
+"at least 50 px by 50 px (actually a minimum of 200 px by 200 px is "
+"preferred), have a maximum aspect ratio of 3:1 and can only be a PNG, JPEG "
+"or GIF.</p>"
+msgstr ""
+"<p> Esta es una función opcional que toma la dirección URL de una imagen de "
+"su sitio, es una buena cosa a tener, ya que proporciona a las personas que "
+"miran en Facebook una representación visual de su sitio web, puede crear una "
+"captura de pantalla de su sitio usando Photoshop o algún otro programa de "
+"edición y luego subirlo a WordPress utilizando la pestaña Media. Sin "
+"embargo, la imagen deberá ser de al menos 50 px por 50 px (en realidad, un "
+"mínimo de 200 píxeles por 200 píxeles se prefiere), tienen una relación de "
+"aspecto de 3:1 máximo y sólo puede ser un archivo PNG, JPEG o GIF. </ P>"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/index.php:67
+msgid "Faceboook UID(s)"
+msgstr "Faceboook UID (s)"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/index.php:68
+msgid ""
+"<p>This requires a comma-separated list of either Facebook user ids and/or "
+"Facebook platform application ids (Only use the ids of people or "
+"applications you trust to administer your websites content). Obtaining your "
+"Facebook user id requires you to visit the Facebook Insights page (See Link "
+"Below) and to click the green Insights for your Website button that will "
+"then generate a popup window containing some html. The number right after "
+"the word content is the number you'll want to use for this field.</p>"
+msgstr ""
+"<p> Esto requiere una lista separada por comas de identificadores de "
+"cualquier usuario de Facebook y / o plataforma de aplicaciones de Facebook "
+"ids (Sólo utilizar los identificadores de personas o aplicaciones de "
+"confianza para administrar su contenido de sitios web). Obtener su ID de "
+"usuario de Facebook requiere que usted visite la página de Facebook Insights "
+"(ver enlace abajo) y hacer clic en las Perspectivas verdes para el botón del "
+"Sitio Web que luego va a generar una ventana emergente con un poco de html. "
+"El número a la derecha después de que el contenido de la palabra es el "
+"número que usted desea utilizar para este campo. </ P>"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/index.php:74
+msgid "Disabling Namespaces"
+msgstr "Espacios de nombres Desactivación"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/index.php:75
+msgid ""
+"<p>In order for this to work our software needs to add code to your websites "
+"html tag, sometimes people will hard code the xmlns:og and xmlns:fb "
+"namespaces into your websites theme. To determine if these entries already "
+"exist simply visit your website, right click your mouse and select view "
+"source. Near the top of this document find the tag that starts with  &lt;"
+"html if this tag contains the words xmlns:og and xmlns:fb then you can put a "
+"check-mark in this box (P.S. Do this before you activate the plugin). If it "
+"does not then you can leave this field unchecked and the software will "
+"automatically add the required tags to your theme.</p>"
+msgstr ""
+"<p> Para que esto funcione nuestro software tiene que agregar código a sus "
+"páginas web etiqueta html, a veces la gente duro codificar los xmlns: og y "
+"xmlns: fb espacios de nombres en el tema de tu Web site. Para determinar si "
+"estas entradas ya existen sólo tienes que visitar su sitio web, haga clic "
+"derecho del ratón y seleccione Ver código fuente. En la parte superior de "
+"este documento, busque la etiqueta que comienza con <html si esta etiqueta "
+"contiene las palabras: og xmlns y xmlns: fb entonces usted puede poner una "
+"marca de verificación en este cuadro (PS Haga esto antes de activar el "
+"plugin). Si no es así entonces usted puede dejar este campo sin control y el "
+"software añadirá automáticamente las etiquetas necesarias para su tema. </ P>"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/index.php:92
+msgid "Social Graph"
+msgstr "Social Graph"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/index.php:96
+msgid "Settings"
+msgstr "Ajustes"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/index.php:200
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/index.php:208
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/index.php:221
+msgid "Social Graph Protocol Options"
+msgstr "Social Graph Options Protocolo"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/index.php:350
+msgid "Start Of Facebook Open Graph Meta Data"
+msgstr "Inicio de Facebook Open Graph Meta Data"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/index.php:384
+msgid "End Of Facebook Open Graph Meta Data"
+msgstr "Fin de Facebook Open Graph Meta Data"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:80
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/open-graph-menu.php:3
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:86
+msgid "Type"
+msgstr "Tipo"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:101
+msgid "If Your Unsure Leave This Value Set To Article."
+msgstr "Si su licencia está seguro de este valor se establece en el artículo."
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:101
+msgid "Learn More"
+msgstr "Más información."
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:106
+msgid "Title"
+msgstr "Título"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:109
+msgid "Defaults To Post Title"
+msgstr "Predeterminados para enviar Título"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:114
+msgid "Description"
+msgstr "Descripcion"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:117
+msgid "Defaults To Post Content"
+msgstr "Predeterminados para enviar un mensaje"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:122
+msgid "Image"
+msgstr "-Imagen-"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:125
+msgid "Defaults To Featured Image"
+msgstr "El valor predeterminado es la imagen Destacados"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:131
+msgid "Location Settings"
+msgstr "Configuración de ubicación"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:137
+msgid "Latitude"
+msgstr "Latitud"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:140
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:148
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:156
+msgid "Example"
+msgstr "Ejemplo."
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:145
+msgid "Longitude"
+msgstr "Longitud"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:153
+msgid "Street Address"
+msgstr "Dirección (calle y número)"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:156
+msgid "California"
+msgstr "California"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:161
+msgid "Locality"
+msgstr "Localidad"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:164
+msgid "Example: Palo Alto"
+msgstr "Ejemplo: Palo Alto"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:169
+msgid "Region"
+msgstr "aduaneras."
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:172
+msgid "Example: CA"
+msgstr "Ejemplo: CA"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:177
+msgid "Postal Code"
+msgstr "Código postal"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:180
+msgid "Example: 94304 or T5N-3R6"
+msgstr "Ejemplo: 94304 o T5N-3R6"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:185
+msgid "Country Name"
+msgstr "Nombre País"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:188
+msgid "Example: USA"
+msgstr "Ejemplo: EE.UU."
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:194
+msgid "Personal/Business Settings"
+msgstr "Personal Settings / Negocios"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:200
+msgid "Email"
+msgstr "Email"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:203
+msgid "Example: me@example.com"
+msgstr "Ejemplo: me@example.com"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:208
+msgid "Phone Number"
+msgstr "Numero de teléfono"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:211
+msgid "Example: 650-123-4567"
+msgstr "Ejemplo: 650-123-4567"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:216
+msgid "Fax Number"
+msgstr "Número de fax:"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:219
+msgid "Example: +1-415-123-4567"
+msgstr "Ejemplo: +1-415-123-4567"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:225
+msgid "Video Settings"
+msgstr "Ajustes de Vídeo"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:231
+msgid "Video"
+msgstr "Video"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:234
+msgid "Example: http://example.com/awesome.swf"
+msgstr "Ejemplo: http://example.com/awesome.swf"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:239
+msgid "Video Height"
+msgstr "Vídeo Altura"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:242
+msgid "Example: 640"
+msgstr "Ejemplo: 640"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:247
+msgid "Video Width"
+msgstr "Vídeo Ancho"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:250
+msgid "Example: 385"
+msgstr "Ejemplo: 385"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:255
+msgid "Video Type"
+msgstr "Tipo de vídeo"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:258
+msgid "Example: application/x-shockwave-flash"
+msgstr "Ejemplo: application / x-shockwave-flash"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:264
+msgid "Audio Settings"
+msgstr "Configuración de audio"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:270
+msgid "Audio"
+msgstr "Audio"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:273
+msgid "Example: http://example.com/amazing.mp3"
+msgstr "Ejemplo: http://example.com/amazing.mp3"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:278
+msgid "Audio Title"
+msgstr "Título de audio"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:281
+msgid "Example: Amazing Soft Rock Ballad"
+msgstr "Ejemplo: Balada increíble Soft Rock"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:286
+msgid "Audio Artist"
+msgstr "Artista Audio"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:289
+msgid "Example: Amazing Band"
+msgstr "Ejemplo: Banda increíble"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:294
+msgid "Audio Album"
+msgstr "Audio Álbum"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:297
+msgid "Example: Amazing Album"
+msgstr "Ejemplo: Album increíble"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:302
+msgid "Audio Type"
+msgstr "Tipo de audio"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:305
+msgid "Example: application/mp3"
+msgstr "Ejemplo: application/mp3"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:311
+msgid "Product Settings"
+msgstr "Configuración del producto"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:320
+msgid "Example: 123456789999"
+msgstr "Ejemplo: 123456789999"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/meta-box.php:328
+msgid "Example: 99921-58-10-7"
+msgstr "Ejemplo: 99921-58-10-7"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/open-graph-menu.php:20
+msgid ""
+"Enter in a short one to two sentence description of your website (Defaults "
+"to your tagline)"
+msgstr ""
+"Escriba una descripción breve frase uno a dos de su sitio web (valor por "
+"defecto es su lema)"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/open-graph-menu.php:28
+msgid ""
+"Image must be at least 50px by 50px and have a maximum aspect ratio of 3:1"
+msgstr ""
+"La imagen debe ser de al menos 50px por 50px y tienen una relación de "
+"aspecto de 3:1 máximo"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/open-graph-menu.php:33
+msgid "Facebook UIDs"
+msgstr "Facebook UIDs"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/open-graph-menu.php:36
+msgid ""
+"Your Facebook user id or a comma seperated list of the ids of people who "
+"will have admin rights."
+msgstr ""
+"Su Facebook ID de usuario o una coma de las identidades de las personas que "
+"tengan derechos de administrador."
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/open-graph-menu.php:41
+msgid "Disable Namespaces"
+msgstr "Desactivar Namespaces"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/open-graph-menu.php:46
+msgid ""
+"Check this option if you have hardcoded the xmlns:og and xmlns:fb namespaces "
+"into your theme or if you notice they are double entries on your head tag."
+msgstr ""
+"Marque esta opción si ha codificado los xmlns: og y xmlns: fb espacios de "
+"nombres en su tema o si aprecia son entradas dobles en su etiqueta la cabeza."
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/open-graph-menu.php:54
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: C:\wamp\www\ProductBot\wp-content\plugins\social-graph-protocol/includes/open-graph-menu.php:58
+msgid ""
+"Tip: For additional details on these settings click the help link in the "
+"upper right hand corner or read our write up at "
+msgstr ""
+"Consejo: Para obtener más detalles sobre estos ajustes, haga clic en el "
+"enlace de ayuda en la esquina superior derecha o leer nuestra escritura "
+"hasta en "
