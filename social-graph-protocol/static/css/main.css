@@ -1,0 +1,76 @@
+.sgp-settings h2 {
+	font: bold 2em 'Open Sans Condensed', "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Arial, sans-serif;
+}
+
+.sgp-settings #message {
+	margin-top: 12px;
+}
+
+.sgp-settings span.required {
+	color: #CC0000;
+	font-style: italic;
+}
+
+.sgp-settings .button {
+	font-style: normal;
+}
+
+.sgp-settings span.optional {
+	color: #666;
+	font-style: italic;
+}
+
+.sgp-settings .form-table tbody tr th {
+	width: 110px;
+	padding: 13px 0 0 0;
+}
+
+.sgp-settings form label {
+	font-style: italic;
+}
+
+.sgp-settings form input[type=text] {
+	background-color: #fff;
+	border: 1px solid rgba(0,0,0,.1);
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	color: #333;
+	outline: 0;
+	padding: 6px;
+	width: 750px;
+	box-shadow: inset 0 0 8px #eee;
+}
+
+.sgp-settings form input[type=text]:focus {
+	border: 1px solid #009ced;
+	box-shadow: none;
+}
+
+.collapse {
+	text-decoration: none;
+	font-size: 11px;
+}
+
+.toggleMenu-2, .toggleMenu-3, .toggleMenu-4, .toggleMenu-5, .toggleMenu-6 {
+	display: none;
+}
+
+p.ptable {
+	margin: 0 !important;
+	padding: 0 !important;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.fberrorbox
+{
+    background-color: #fff9d7;
+    border: 1px solid #e2c822;
+    color: #333;
+    padding: 10px;
+    font-weight: bold;
+}
