@@ -1,9 +1,10 @@
 === Plugin Name ===
 Contributors: Adam Losier
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DPNGNWR3BVAGS
 Tags: open graph, social graph, facebook open graph, open graph protocol, facebook open graph protocol, social graph protocol, facebook, open graph meta, open graph meta data
 Requires at least: 3.3
-Tested up to: 4.0.1
-Stable tag: 2.0.5/social-graph-protocol
+Tested up to: 4.2.3
+Stable tag: 2.0.6/social-graph-protocol
 
 The Social Graph Protocol plugin developed by CodeHooks enables you to integrate your websites content into the Facebook Open Graph.
 
@@ -49,8 +50,11 @@ Feel free to direct all of your questions in the comments section of that page o
 
 == Changelog ==
 
+= 2.0.6 =
+* Just realized after several months that the 2.0.5 update wen't horribly wrong but is now fixed so you should be able to upgrade fine from here on in
+
 = 2.0.5 =
-* No changes - just an update to avoid a repository deletion - hang in there though I do still have plans to advance this plugin
+* An update to keep the plugin active inside of the repository
 
 = 2.0.4 =
 * Properly fixed an error some would get using the Facebook Debug tool when dealing with certain unsupported locale's
